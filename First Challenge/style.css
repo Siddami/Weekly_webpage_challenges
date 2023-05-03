@@ -20,15 +20,15 @@ div .container{
 
 .sub-container{
     background-color: hsl(0, 0%, 100%);
-    border-radius: 5px;
-    width: 30%;
+    border-radius: 10px;
+    width: 25%;
     margin: 10px auto;
     padding: 10px auto;
 
 }
 
 #qr-img{
-    border-radius: 8px;
+    border-radius: 18px;
     margin:5px;
     padding: 5px 0 5px 0;
     width: 92%;
